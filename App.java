@@ -22,6 +22,7 @@ public class App extends Application {
 
     public static void main(String[] args) {
         logger.info("Starting Laboratory Information System...");
+        int x=9;
         launch(args);
     }
 
